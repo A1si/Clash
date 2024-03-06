@@ -1,0 +1,15 @@
+payload:
+  - PROCESS-NAME,sniper5_dx12.exe
+  - PROCESS-NAME,Palworld-WinGDK-Shipping.exe
+  - PROCESS-NAME,GTFO.exe
+  - PROCESS-NAME,FSD-Win64-Shipping.exe
+  - PROCESS-NAME,PAYDAY3Client-WinGDK-Shipping.exe
+  - PROCESS-NAME,PlateUp.exe
+  - DOMAIN-SUFFIX,forzamotorsport.net
+  - PROCESS-NAME,FACEIT.exe
+  - PROCESS-NAME,FSD.exe
+  - PROCESS-NAME,helldivers2.exe
+  - DOMAIN-SUFFIX,mod.io
+  - PROCESS-NAME,ForzaHorizon5.exe
+  - PROCESS-NAME,ForzaHorizon4.exe
+  - PROCESS-NAME,cs2.exe
